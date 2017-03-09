@@ -1,1 +1,1 @@
-include ':app', ':inputbox'
+include ':app', ':inputbox', ':screeninfo', ':bezierlib'
